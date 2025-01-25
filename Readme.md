@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # TOHID_KHAN-INFO
 
-<p align="center">  
+<p align="https://github.com/Tohidkhan6332/TOHID-INFO.git">  
   <a href="https://telegra.ph/file/02901a37c157fa1352aef.jpg">
     <img alt="Tohid-khan" height="600" src="https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg">
     
